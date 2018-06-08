@@ -1,0 +1,31 @@
+[09-May-2018 13:19:49 UTC] PHP Warning:  sprintf(): Too few arguments in /app/public/wp-admin/includes/class-bulk-upgrader-skin.php on line 150
+[09-May-2018 14:56:55 UTC] PHP Warning:  copy(/app/public/wp-content/upgrade/revslider/revslider/public/assets/assets/svg/image/ic_blur_linear_24px.svg): failed to open stream: No such file or directory in /app/public/wp-admin/includes/class-wp-filesystem-direct.php on line 243
+[09-May-2018 14:56:55 UTC] PHP Warning:  copy(/app/public/wp-content/upgrade/revslider/revslider/public/assets/assets/svg/image/ic_blur_linear_24px.svg): failed to open stream: No such file or directory in /app/public/wp-admin/includes/class-wp-filesystem-direct.php on line 243
+[09-May-2018 15:28:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/plugins/revslider/includes/framework/cssparser.class.php on line 152
+[11-May-2018 10:07:17 UTC] PHP Warning:  php_uname() has been disabled for security reasons in /app/public/wp-content/plugins/updraftplus/restorer.php on line 1445
+[11-May-2018 10:07:17 UTC] PHP Warning:  php_uname() has been disabled for security reasons in /app/public/wp-content/plugins/updraftplus/restorer.php on line 1445
+[11-May-2018 10:07:17 UTC] PHP Warning:  php_uname() has been disabled for security reasons in /app/public/wp-content/plugins/updraftplus/restorer.php on line 1445
+[11-May-2018 10:07:17 UTC] PHP Warning:  php_uname() has been disabled for security reasons in /app/public/wp-content/plugins/updraftplus/restorer.php on line 1445
+[11-May-2018 10:07:31 UTC] PHP Warning:  php_uname() has been disabled for security reasons in /app/public/wp-content/plugins/updraftplus/restorer.php on line 1445
+[11-May-2018 10:07:31 UTC] PHP Warning:  php_uname() has been disabled for security reasons in /app/public/wp-content/plugins/updraftplus/restorer.php on line 1445
+[11-May-2018 10:07:31 UTC] PHP Warning:  php_uname() has been disabled for security reasons in /app/public/wp-content/plugins/updraftplus/restorer.php on line 1445
+[11-May-2018 10:07:58 UTC] PHP Warning:  php_uname() has been disabled for security reasons in /app/public/wp-content/plugins/updraftplus/restorer.php on line 1445
+[11-May-2018 10:07:58 UTC] PHP Warning:  php_uname() has been disabled for security reasons in /app/public/wp-content/plugins/updraftplus/restorer.php on line 1445
+[11-May-2018 10:07:58 UTC] PHP Warning:  php_uname() has been disabled for security reasons in /app/public/wp-content/plugins/updraftplus/restorer.php on line 1445
+[11-May-2018 10:07:58 UTC] PHP Warning:  php_uname() has been disabled for security reasons in /app/public/wp-content/plugins/updraftplus/restorer.php on line 1445
+[11-May-2018 10:07:58 UTC] PHP Warning:  php_uname() has been disabled for security reasons in /app/public/wp-content/plugins/updraftplus/restorer.php on line 1445
+[14-May-2018 16:36:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/plugins/revslider/includes/framework/cssparser.class.php on line 152
+[16-May-2018 16:19:06 UTC] PHP Warning:  Error while sending QUERY packet. PID=353 in /app/public/wp-includes/wp-db.php on line 1924
+[16-May-2018 16:19:06 UTC] PHP Warning:  Error while sending QUERY packet. PID=357 in /app/public/wp-includes/wp-db.php on line 1924
+[22-May-2018 14:48:49 UTC] WordPress database error Query execution was interrupted for query SELECT option_value FROM wp_options WHERE option_name = 'WPLANG' LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), include_once('/plugins/revslider/revslider.php'), RevSliderFront->__construct, RevSliderBaseFront->__construct, RevSliderBase->__construct, load_plugin_textdomain, get_locale, get_option
+[23-May-2018 14:49:11 UTC] PHP Parse error:  syntax error, unexpected '}' in /app/public/wp-content/themes/bridge/functions.php on line 1703
+[23-May-2018 14:51:12 UTC] PHP Parse error:  syntax error, unexpected '}' in /app/public/wp-content/themes/bridge/functions.php on line 1703
+[23-May-2018 14:53:12 UTC] PHP Parse error:  syntax error, unexpected '}' in /app/public/wp-content/themes/bridge/functions.php on line 1703
+[23-May-2018 14:55:13 UTC] PHP Parse error:  syntax error, unexpected '}' in /app/public/wp-content/themes/bridge/functions.php on line 1703
+[23-May-2018 14:57:14 UTC] PHP Parse error:  syntax error, unexpected '}' in /app/public/wp-content/themes/bridge/functions.php on line 1703
+[23-May-2018 14:59:15 UTC] PHP Parse error:  syntax error, unexpected '}' in /app/public/wp-content/themes/bridge/functions.php on line 1703
+[23-May-2018 15:00:59 UTC] PHP Parse error:  syntax error, unexpected '}' in /app/public/wp-content/themes/bridge/functions.php on line 1703
+[30-May-2018 07:25:44 UTC] PHP Warning:  Error while sending QUERY packet. PID=57 in /app/public/wp-includes/wp-db.php on line 792
+[30-May-2018 07:25:44 UTC] PHP Warning:  Error while sending QUERY packet. PID=37 in /app/public/wp-includes/wp-db.php on line 792
+[04-Jun-2018 15:29:34 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting case (T_CASE) or default (T_DEFAULT) or '}' in /app/public/wp-content/themes/bridge-child/templates/blog_single-loop.php on line 240
+[04-Jun-2018 15:46:55 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting case (T_CASE) or default (T_DEFAULT) or '}' in /app/public/wp-content/themes/bridge-child/templates/blog_single-loop.php on line 267

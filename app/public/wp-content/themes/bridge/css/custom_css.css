@@ -1,0 +1,248 @@
+
+
+
+
+
+
+
+
+
+/* START: ABOUT PAGE PROFILEPHOTOS */
+
+.q_team.info_on_hover .q_team_text_holder_inner{
+    padding-left: 10%;
+    vertical-align: bottom;
+}
+
+.q_team.info_on_hover .q_team_text_holder_inner .q_team_title_holder, .q_team .q_team_social_holder{
+    text-align: left;
+}
+
+.q_team.info_on_hover .q_team_text_holder_inner .separator{
+    display: none;   
+}
+
+.q_team.info_on_hover .q_team_text_holder_inner .q_team_social_holder .q_social_icon_holder:first-child{
+    margin-left: 0;
+}
+
+.q_team.info_on_hover .q_team_text_holder_inner .q_team_social_holder{
+    margin-top: 13px;
+    margin-bottom: 10%;
+}
+
+.q_team.info_on_hover .q_social_icon_holder.normal_social a{
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    line-height: 31px;
+    text-align: center;
+    border: 2px solid #fff;
+    border-radius: 50%
+}
+
+.q_team.info_on_hover .q_social_icon_holder.normal_social a:hover{
+    background-color: #fff;
+}
+
+.q_team.info_on_hover .q_social_icon_holder.normal_social a:hover i{
+    color: #ff1c1c!important;
+}
+
+.q_team.info_on_hover .q_social_icon_holder.normal_social{
+    margin: 0 4px;
+}
+
+
+.q_team .q_team_social_holder .q_social_icon_holder i.simple_social, .q_team .q_team_social_holder .q_social_icon_holder a{
+    font-size: 11px;
+}
+
+.q_team .q_team_title_holder .q_team_name{
+    margin-bottom: -2px;
+}
+
+/* END: ABOUT PAGE PROFILEPHOTOS */
+
+
+
+
+
+
+/***********************************************
+    START: COLORS FOR 3 CATEGORIES'S BUTTONS
+***********************************************/
+
+.qode-qbutton-main-color {
+    color: #AF0124;
+    font-weight: 500;
+}
+
+.qode-qbutton-main-color:hover {
+    color: #AF0124;
+    text-decoration: underline;
+}
+
+/***********************************************
+    END: COLORS FOR 3 CATEGORIES'S BUTTONS
+***********************************************/
+
+
+
+
+/***********************************************
+    START: CATEGORY CARDS
+***********************************************/
+
+div.qode-info-card {
+  transition: box-shadow .25s linear;
+  padding: 25px;
+  border: 1px solid #e5e8ed;
+  border-radius: 4px;
+  box-shadow: 0.5px 0.7px 0.7px 0.7px rgba(3, 27, 78, 0.06);
+  cursor: pointer;
+  min-height: 295px;
+}
+
+div.qode-info-card:hover {
+  box-shadow: 3px 4px 9px 3px rgba(3, 27, 78, 0.06);
+}
+
+.qode-info-card-title {
+  font-weight: 500;
+  font-size: 22px;
+}
+
+/***********************************************
+    END: CATEGORY CARDS
+***********************************************/
+
+
+
+/***********************************************
+ START: SINGLE POST
+***********************************************/
+
+.blog_single.blog_holder .post_text_inner {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 80px;
+  max-width: 700px;
+}
+
+
+.blog_holder article .post_info a, .blog_holder article .post_text h2 .date {
+  display: block;
+  font-size: 14px;
+  color: #6B6B6B;
+}
+
+
+.blog_holder.blog_single article h2:first-child {
+   font-size: 36px;
+   line-height: 40px;
+   margin-bottom: 20px;
+}
+
+.blog_holder.blog_single article h2 {
+   font-weight: 500;
+   color: #000;
+   margin-top: 30px;
+}
+
+.post_text_inner p img {
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+
+.single-post .blog_single p {
+   font-size: 18px;
+   line-height: 28px;
+   margin-top: 20px;
+}
+
+.single-post .blog_single p strong {
+   font-weight: 500;
+   
+}
+
+.single-post .blog_single p strong a,
+.single-post .blog_single p a {
+  text-decoration: underline;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.single-post .blog_single p strong a:hover {
+  color: #AF0124;
+
+}
+
+.single-post .blog_single p a:hover {
+  color: #AF0124;
+}
+
+/* start: form styles */
+.blog_post_subscription-form {
+  margin-top: 80px;
+  padding: 30px 0px;
+}
+
+.blog_post_subscription-form-title {
+  font-size: 32px;
+  font-weight: 500;
+}
+
+.two_columns_form_with_space .column_left input {
+  border: 1px solid #6B6B6B;
+  border-radius: 3px;
+  padding-bottom: 24px;
+}
+/* end: form styles */
+
+
+/* start: related post styles */
+.latest_post_holder {
+  border-top: 1px solid #6B6B6B;
+  padding-top: 70px;
+  margin-top: 70px;
+}
+
+.latest_post_text_inner {
+  font-size: 14px;
+  color: #6B6B6B;
+}
+
+
+.latest_post_text_inner a {
+  font-size: 18px;
+  line-height: 20px;
+  font-weight: 500;
+  color: #000;
+}
+
+.latest_post_text_inner a:hover {
+  color: #AF0124
+}
+
+
+.latest_post_text_inner p {
+  font-size: 16px;
+  color: #212122;
+}
+
+.latest_post_title .entry_title p.excerpt{
+  font-size: 16px;
+  color: #212122;
+/* end: related post styles */
+
+
+
+
+
+/***********************************************
+ END: SINGLE POST
+***********************************************/
+
+
+ 
